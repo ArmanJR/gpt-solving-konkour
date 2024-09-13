@@ -5,6 +5,8 @@ ChatGPT Solving 1403 Math Konkour Problems
 
 [Download PDF](ChatGPT-solving-math-konkour.pdf)
 
+*math equations are not properly formatted*
+
 ## Consideration
 Since `ChatGPT-o1-preview` model has a limit of 30 messages per week, I asked only 10 (kinda random) questions (1/4 of all the math problems) and multiplied my results by 4. 
 
